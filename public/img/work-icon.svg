@@ -1,0 +1,12 @@
+<svg width="360" height="400" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="362" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_3" fill="#e50404" d="m176.996982,64.430322c-67.802,0 -122.766,54.964 -122.766,122.766c0,92.453 122.008,187.18 122.008,187.18s123.524,-94.727 123.524,-187.18c0,-67.802 -54.964,-122.766 -122.766,-122.766zm0,194.758c-39.76,0 -71.992,-32.232 -71.992,-71.992s32.232,-71.992 71.992,-71.992s71.992,32.232 71.992,71.992s-32.232,71.992 -71.992,71.992z"/>
+  <text stroke="null" transform="matrix(1.710928611759516,0,0,1.710928611759516,-112.65074214041589,-95.69115853611113) " font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Oswald, sans-serif" font-size="24" id="svg_7" y="174.732525" x="130.653892" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">WORK</text>
+ </g>
+</svg>
